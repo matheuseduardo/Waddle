@@ -10,7 +10,8 @@
         }
     ],
     "require": {
-        "php": ">=7.0.4"
+        "php": ">=7.0.4",
+        "ext-simplexml": "*"
     },
     "require-dev": {
       "phpunit/phpunit": "dev-master"  
